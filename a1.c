@@ -1,8 +1,7 @@
 /*
  *			Unjumble.c
  *		CSSE2310 - Assignment One
- *	
- *	Written by Riley Mosca, r.mosca@uq.net.au	
+ *		 Written by Riley Mosca	
  */
 
 #include <stdio.h>
